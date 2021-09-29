@@ -1,5 +1,11 @@
 
-<h2 align="center">👋 Hi there, I'm Emre</h2>
+<h2 align="left">👋 Hi there, I'm Emre</h2>
+- 🔭 I’m currently working on Londonist <br>
+- 🌱 I’m currently learning Machine Learning, Game Development <br> <br>
+
+<h3>🔍 Where to find me</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emreunal2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emre-%C3%BCnal-24468717a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.getemre.com/)  
 
 
 
