@@ -1,4 +1,6 @@
-### 👋 Hi there
+
+<h2 align="center">👋 Hi there, I'm Emre</h2>
+
 
 
 ### 🎮 Let's play Pokémon together~
@@ -19,3 +21,5 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 </details>
 
 -----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreunal2&hide=html,css&layout=compact&theme=nord)](https://github.com//github-readme-stats)
